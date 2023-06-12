@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hAIe8TSMsyRcxEZc+0wlMc1na9zmQsFcsbJ4iu1yruc9K+Lg16vKoAnXjzhczg0HvrgI+0aGqb0ekooktJWb7Q==",
+  "dgSpecHash": "OCwZPk55bU34qQKpwWV2rc7wyrbm6y8Yd3Fids9pZGwDUua9uAkJlbztES6GrnO7hPE7T/fauIHee+Bwtv68xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+  "projectFilePath": "C:\\Repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
